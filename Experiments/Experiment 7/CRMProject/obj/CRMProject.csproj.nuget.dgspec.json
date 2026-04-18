@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotNet\\Experiment 7\\CRMProject\\CRMProject.csproj": {}
+    "D:\\DotNet\\.NET\\Experiments\\Experiment 7\\CRMProject\\CRMProject.csproj": {}
   },
   "projects": {
-    "D:\\DotNet\\Experiment 7\\CRMProject\\CRMProject.csproj": {
+    "D:\\DotNet\\.NET\\Experiments\\Experiment 7\\CRMProject\\CRMProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNet\\Experiment 7\\CRMProject\\CRMProject.csproj",
+        "projectUniqueName": "D:\\DotNet\\.NET\\Experiments\\Experiment 7\\CRMProject\\CRMProject.csproj",
         "projectName": "CRMProject",
-        "projectPath": "D:\\DotNet\\Experiment 7\\CRMProject\\CRMProject.csproj",
+        "projectPath": "D:\\DotNet\\.NET\\Experiments\\Experiment 7\\CRMProject\\CRMProject.csproj",
         "packagesPath": "C:\\Users\\manea\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNet\\Experiment 7\\CRMProject\\obj\\",
+        "outputPath": "D:\\DotNet\\.NET\\Experiments\\Experiment 7\\CRMProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
